@@ -41,6 +41,18 @@ body {
   cursor: pointer;
 }
 
+.product::after {
+  content: url(./images/icon-view.svg);
+  background: hsl(180, 100%, 50%, 0.5);
+  position: absolute;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: all 0.25s ease;
+}
+
 .product .image {
   width: 100%;
   display: block;
