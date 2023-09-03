@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Built with
 
-- HTML5
+- Semantic HTML5 Markup
 - CSS
 - Flexbox
 
