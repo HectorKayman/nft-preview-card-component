@@ -57,6 +57,11 @@ body {
   opacity: 1;
 }
 
+.product .image {
+  width: 100%;
+  display: block;
+}
+
 .row {
   margin: 8px 0;
 }
@@ -75,11 +80,6 @@ body {
   font-size: 15px;
   font-weight: 300;
   color: hsl(215, 51%, 70%);
-}
-
-.product .image {
-  width: 100%;
-  display: block;
 }
 
 /* footer */
