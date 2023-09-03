@@ -93,6 +93,23 @@ body {
   gap: 5px;
 }
 
+.info span {
+  font-size: 14px;
+}
+
+.left span {
+  color: hsl(178, 100%, 50%);
+}
+
+.right span {
+  color: hsl(215, 51%, 70%);
+}
+
+div hr {
+  border: none;
+  border-top: 1px solid hsl(215, 51%, 70%);
+}
+
 /* footer */
 .attribution {
   font-size: 11px;
