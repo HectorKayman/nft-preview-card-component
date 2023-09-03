@@ -87,6 +87,12 @@ body {
   justify-content: space-between;
 }
 
+.column {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
 /* footer */
 .attribution {
   font-size: 11px;
