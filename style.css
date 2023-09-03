@@ -110,6 +110,33 @@ div hr {
   border-top: 1px solid hsl(215, 51%, 70%);
 }
 
+.artist {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 14px;
+}
+
+.artist span {
+  color: hsl(215, 51%, 70%);
+}
+
+.artist span a {
+  text-decoration: none;
+  color: white;
+}
+
+.artist span a:hover {
+  color: cyan;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 10%;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
 /* footer */
 .attribution {
   font-size: 11px;
