@@ -105,7 +105,7 @@ body {
   color: hsl(215, 51%, 70%);
 }
 
-div hr {
+hr {
   border: none;
   border-top: 1px solid hsl(215, 51%, 70%);
 }
