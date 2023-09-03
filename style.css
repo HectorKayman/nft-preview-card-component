@@ -6,6 +6,19 @@
   box-sizing: border-box;
 }
 
+html {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100svh;
+}
+
 /* footer */
 .attribution {
   font-size: 11px;
