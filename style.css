@@ -32,6 +32,11 @@ body {
   border-radius: 0.8rem;
 }
 
+.product .image {
+  width: 100%;
+  display: block;
+}
+
 /* footer */
 .attribution {
   font-size: 11px;
